@@ -3,7 +3,8 @@
 All files in 'master' branch.
 
 GitHub:- https://vineet-jakhar.github.io/React-Weather-App/
-Netlify:-
+<br>
+Netlify:-https://grand-monstera-f27742.netlify.app/
 
 
 Need to work on:-
